@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>POKEMON</item>
+        <item>GOKU</item>
+        <item>SHARINGAN</item>
+        <item>ZOLDRICK</item>
+        <item>HARUHI</item>
+        <item>Sempai</item>
+        <item>Maestro</item>
+        <item>Acreditado</item>
+
+    </string-array>
+</resources>
